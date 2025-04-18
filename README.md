@@ -1,2 +1,2 @@
-# C-practice
-Some basic coding questions I completed when learning C++.
+# Java-practice
+Some basic coding questions I completed when learning java.
